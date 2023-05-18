@@ -53,8 +53,8 @@ INSTALLED_APPS = [
     'profiles',
     'posts',
     'comments',
+    'likes',
 ]
-
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
